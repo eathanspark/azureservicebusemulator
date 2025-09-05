@@ -42,3 +42,8 @@ From Publisher and Consumer/Subscriber Application we can utilize this local ser
 only we need to use this configuration 
 
 "Endpoint=sb://localhost;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=SAS_KEY_VALUE;UseDevelopmentEmulator=true;"
+
+## Step 5
+
+Create Sender and Reciever App for testing locally 
+- SampleApp Folder having two console App for testing..
