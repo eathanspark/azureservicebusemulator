@@ -32,3 +32,13 @@ To run emulator just run the below commond
 After the steps are successful, you can find the containers running in Docker.
 
 ![Container](container.JPG)
+
+## Step 4
+
+Now Its time for communicating with Queue and Topic runing on this container ...
+
+From Publisher and Consumer/Subscriber Application we can utilize this local service bus.. 
+
+only we need to use this configuration 
+
+"Endpoint=sb://localhost:5300;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=SAS_KEY_VALUE;UseDevelopmentEmulator=true;"
