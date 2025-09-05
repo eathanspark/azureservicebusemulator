@@ -22,3 +22,11 @@ Link -
 - Change the below Path as per your folder location in ".env" file
 
   CONFIG_PATH="E:\\RnD\Azure\\ServiceBus\\azureservicebusemulator\\Emulator\\config.json" 
+
+
+## Step 3
+To run emulator just run the below commond
+
+**docker compose -f <PathToDockerComposeFile> up -d**
+
+After the steps are successful, you can find the containers running in Docker.
