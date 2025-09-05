@@ -27,7 +27,7 @@ Link -
 ## Step 3
 To run emulator just run the below commond
 
-**docker compose -f <PathToDockerComposeFile> up -d**
+**docker compose -f "E:\\RnD\\Azure\\ServiceBus\\azureservicebusemulator\\Emulator\\docker-compose.yaml" up -d**
 
 After the steps are successful, you can find the containers running in Docker.
 
