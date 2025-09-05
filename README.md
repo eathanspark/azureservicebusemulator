@@ -30,3 +30,5 @@ To run emulator just run the below commond
 **docker compose -f <PathToDockerComposeFile> up -d**
 
 After the steps are successful, you can find the containers running in Docker.
+
+![Container](container.JPG)
