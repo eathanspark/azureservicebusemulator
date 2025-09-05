@@ -1,2 +1,1 @@
-# azureservicebusemulator
-Azure Service Bus Emulator - For Local Queue &amp; Topic Setup
+# Azure Service Bus Emulator - For Local Testing Queue &amp; Topic Setup
